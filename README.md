@@ -16,4 +16,8 @@ Creating a blog
     - Markdown filter.
 6. Adding a sitemap to the blog site.
 7. Creating feeds for the blog posts.
-8. Adding full-text search.
+8. Adding full-text search:
+    - Stemming and ranking results.
+    - Weighting queries.
+    - Searching with trigram similarity
+
