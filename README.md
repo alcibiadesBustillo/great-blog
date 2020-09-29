@@ -10,3 +10,7 @@ Creating a blog
 4. Tag function:
     - Find articles by tag.
     - Retrieving posts by similarity.
+5. Custom template tags and filters:
+    - Total posts
+    - Show latest post
+    - Markdown filter
