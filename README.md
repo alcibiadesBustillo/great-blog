@@ -15,3 +15,4 @@ Creating a blog
     - Show latest post.
     - Markdown filter.
 6. Adding a sitemap to the blog site.
+7. Creating feeds for the blog posts.
