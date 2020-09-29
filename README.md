@@ -7,4 +7,6 @@ Creating a blog
 1. Post article
 2. Recommend article via mail
 3. Add comment to article
-4. Tag article and find articles by tag.
+4. Tag function:
+    - Find articles by tag.
+    - Retrieving posts by similarity.
